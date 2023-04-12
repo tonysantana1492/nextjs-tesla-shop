@@ -11,7 +11,6 @@ import { useForm } from "react-hook-form";
 
 import { AuthLayout } from "../../components/layouts";
 import { validations } from "../../utils";
-import { sizing } from "@mui/system";
 
 type FormData = {
 	email: string;
